@@ -40,12 +40,5 @@ microtrainings:
     
 
 
-  - pattern: 'pwd'
-    category: 'Test2 Security Learning'
-    name: 'Test2'
-    path: './learnings/privileged.md'
-    enable: true
-
-
 
 
